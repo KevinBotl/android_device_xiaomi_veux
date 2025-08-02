@@ -1,0 +1,17 @@
+[
+    {
+        "repository": "https://github.com/KevinBotl/android_kernel_xiaomi_sm6375",
+        "target_path": "kernel/xiaomi/sm6375",
+        "branch": "main"
+    },
+    {
+        "repository": "https://github.com/KevinBotl/android_device_xiaomi_sm6375-common",
+        "target_path": "device/xiaomi/sm6375-common",
+        "branch": "main"
+    },
+    {
+        "repository": "https://github.com/KevinBotl/android_device_xiaomi_veux",
+        "target_path": "device/xiaomi/veux",
+        "branch": "main"
+    }
+]
