@@ -1,10 +1,6 @@
-#
-# Copyright (C) 2025 The Android Open Source Project
-# Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
-#
 # SPDX-License-Identifier: Apache-2.0
-#
 
-add_lunch_combo omni_veux-user
-add_lunch_combo omni_veux-userdebug
-add_lunch_combo omni_veux-eng
+COMMON_LUNCH_CHOICES := \
+    omni_veux-user \
+    omni_veux-userdebug \
+    omni_veux-eng
