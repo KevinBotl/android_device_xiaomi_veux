@@ -7,7 +7,7 @@
     {
         "repository": "https://github.com/KevinBotl/android_device_xiaomi_sm6375-common",
         "target_path": "device/xiaomi/sm6375-common",
-        "branch": "main"
+        "branch": "lineage-20"
     },
     {
         "repository": "https://github.com/KevinBotl/android_device_xiaomi_veux",
